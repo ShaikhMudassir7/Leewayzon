@@ -730,6 +730,7 @@ section {
 
 .features .feture-tabs .nav-pills {
   border-bottom: 1px solid #eee;
+  padding: 2px;
 }
 
 .features .feture-tabs .nav-link {
@@ -738,22 +739,32 @@ section {
   font-size: 15px;
   font-weight: 600;
   color: #012970;
-  padding: 12px 0;
+  border-radius: 30%;
+  padding: 12px ;
   margin-right: 25px;
   margin-bottom: -2px;
   border-radius: 0;
 }
 
 .features .feture-tabs .nav-link.active {
-  color: #4154f1;
+  color: #10185f;
+  border-radius: 10px;
+  font-weight: bold;
+  background-color: #b8e6cd;
   border-bottom: 3px solid #4154f1;
 }
 
 .features .feture-tabs .tab-content h4 {
-  font-size: 18px;
+  font-size: 24px;
   margin: 0;
   font-weight: 700;
   color: #012970;
+}
+
+.features .feture-tabs .tab-content {
+  font-size: 19px;
+  margin: 0;
+  font-weight: 500;
 }
 
 .features .feture-tabs .tab-content i {
@@ -2331,7 +2342,7 @@ section {
 }
 
 .footer .footer-top .footer-info p {
-  font-size: 14px;
+  font-size: 18px;
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Nunito", sans-serif;
@@ -2372,7 +2383,7 @@ section {
 .footer .footer-top .footer-links ul i {
   padding-right: 2px;
   color: #d0d4fc;
-  font-size: 12px;
+  font-size: 16px;
   line-height: 0;
 }
 
