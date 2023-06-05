@@ -327,7 +327,7 @@ $(document).ready(function(){
 
   // Typing
   var typed = new Typed(".type",{
-      strings: ["Website Designing", "Mobile Application", "Search Engine Optimisation", "Web-Development", "Desktop Application", "Web Application", ],
+      strings: ["Website Designing", "Website Application", "Management Application", "Portal-Development", "Data Science & Analytics", "Ecommerce Development", ],
       typeSpeed: 100,
       backSpeed: 60,
       loop: true,
