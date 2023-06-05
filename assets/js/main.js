@@ -1,7 +1,7 @@
 /**
-* Template Name: FlexStart
+* Template Name: Leewayzon
 * Updated: Mar 10 2023 with Bootstrap v5.2.3
-* Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
+* Template URL: https://bootstrapmade.com/Leewayzon-bootstrap-startup-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
