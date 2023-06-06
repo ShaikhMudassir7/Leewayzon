@@ -6,6 +6,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
+  font-size: 16px;
 }
 
 a {
@@ -566,7 +567,7 @@ section {
 }
 
 .about h3 {
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 700;
   color: #4154f1;
   text-transform: uppercase;
@@ -581,6 +582,8 @@ section {
 .about p {
   margin: 15px 0 30px 0;
   line-height: 24px;
+  font-size: 18px;
+  font-weight: 600;
 }
 
 .about .btn-read-more {
@@ -676,7 +679,8 @@ section {
   padding: 0;
   margin: 0;
   font-family: "Nunito", sans-serif;
-  font-size: 14px;
+  font-size: 20px;
+  font-weight: 500;
 }
 
 /*--------------------------------------------------------------
@@ -843,12 +847,18 @@ section {
   font-weight: 700;
 }
 
+.services .service-box p {
+  color: #444444;
+  font-weight: 500;
+  font-size: 18px;
+}
+
 .services .service-box .read-more {
   display: inline-flex;
   align-items: center;
   justify-content: center;
   font-weight: 600;
-  font-size: 16px;
+  font-size: 20px;
   padding: 8px 20px;
 }
 
@@ -1080,7 +1090,7 @@ section {
   padding: 15px 15px 20px 0;
   font-weight: 600;
   border: 0;
-  font-size: 18px;
+  font-size: 20px;
   color: #444444;
   text-align: left;
 }
@@ -1097,6 +1107,7 @@ section {
 
 .faq .accordion-body {
   padding: 0 0 25px 0;
+  font-size: 18px;
   border: 0;
 }
 
@@ -1386,6 +1397,7 @@ section {
 
 .testimonials .testimonial-item p {
   font-style: italic;
+  font-size: 19px;
   margin: 0 auto 15px auto;
 }
 
@@ -1643,7 +1655,7 @@ section {
 .contact .info-box p {
   padding: 0;
   line-height: 24px;
-  font-size: 14px;
+  font-size: 18px;
   margin-bottom: 0;
 }
 
@@ -2390,6 +2402,7 @@ section {
 .footer .footer-top .footer-links ul li {
   padding: 10px 0;
   display: flex;
+  font-size: 16px;
   align-items: center;
 }
 
@@ -2415,6 +2428,7 @@ section {
 .footer .copyright {
   text-align: center;
   padding-top: 30px;
+  font-size: 20px;
   color: #012970;
 }
 
